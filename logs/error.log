@@ -1,0 +1,2 @@
+2025-06-06 20:24:23 - ERROR - Failed to initialize strategy: Can't instantiate abstract class EMAVWAPScalpingStrategy without an implementation for abstract methods 'get_minimum_candles_needed', 'get_required_intervals'
+2025-07-03 08:08:25 - ERROR - Failed to initialize strategy: Can't instantiate abstract class EMAVWAPScalpingStrategy without an implementation for abstract methods 'get_minimum_candles_needed', 'get_required_intervals'
