@@ -1,0 +1,87 @@
+2025-06-08 16:16:10 - DEBUG - XIONUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - WIFUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - WAXPUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - WCTUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - XLMUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - XMRUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - XNOUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - WLDUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - WOOUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - XRDUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - XRPUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - WUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XCHUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XAIUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XCNUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XAUTUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XDCUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XIONUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XEMUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XNOUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XMRUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XLMUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XRDUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XRPUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - Executing strategy for XTERUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for XVGUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for XVSUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for YFIUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for YGGUSDT
+2025-06-08 16:16:10 - DEBUG - XTERUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZBCNUSDT
+2025-06-08 16:16:10 - DEBUG - XVGUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZENTUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZECUSDT
+2025-06-08 16:16:10 - DEBUG - XVSUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZENUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZEREBROUSDT
+2025-06-08 16:16:10 - DEBUG - YFIUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZETAUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZEUSUSDT
+2025-06-08 16:16:10 - DEBUG - YGGUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZILUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZKJUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZKUSDT
+2025-06-08 16:16:10 - DEBUG - ZBCNUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZORAUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZRCUSDT
+2025-06-08 16:16:10 - DEBUG - ZENTUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - Executing strategy for ZROUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for ZRXUSDT
+2025-06-08 16:16:10 - INFO - Executing strategy for XTZUSDT
+2025-06-08 16:16:10 - DEBUG - ZECUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZENUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZEREBROUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - XVGUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - ZETAUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZEUSUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZILUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZKJUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - XTERUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - ZKUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - XVSUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - ZORAUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZRCUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - YFIUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - ZROUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - DEBUG - ZRXUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - YGGUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - DEBUG - XTZUSDT: Data validation passed. Found sufficient candles for all intervals
+2025-06-08 16:16:10 - INFO - ZBCNUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZECUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZENTUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZEREBROUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZENUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZEUSUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZILUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZETAUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZKUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZORAUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZKJUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZRCUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZROUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - XTZUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - ZRXUSDT: Strategy signal = hold, Reason: No entry/exit conditions met
+2025-06-08 16:16:10 - INFO - Strategy iteration processed in 5.40 seconds
+2025-06-08 16:16:10 - INFO - Sleeping for 54.59 seconds
+2025-06-08 16:16:36 - INFO - Wrote candle data to CSV
